@@ -1,11 +1,8 @@
-h2.intro {
+.intro {
   color: blue;
-}
-
-p.intro {
   font-weight: 600;
 }
 
-img.intro {
+img {
   border-radius: 50%;
 }
