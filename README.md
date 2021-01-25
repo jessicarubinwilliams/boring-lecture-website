@@ -13,7 +13,7 @@
 
 ## Description
 
-_A webpage theoretically about selecting grout cleaner but actually an exercise in using lorem ipsum, HTML classes, and CSS._
+_A webpage theoretically about selecting grout cleaner but actually an exercise in using lorem ipsum, HTML classes, and CSS. If a user clicks on a paragraph a background color of yellow and a border are added to the paragraphs._
 
 ## Setup/Installation Requirements
 
