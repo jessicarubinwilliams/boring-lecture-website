@@ -8,6 +8,8 @@
 
 * _HTML_
 * _CSS_
+* _JavaScript_
+* _jQuery Library_
 
 ## Description
 
